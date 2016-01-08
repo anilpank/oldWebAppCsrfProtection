@@ -19,5 +19,7 @@ And a sample implementation of reading cookie value of csrfToken using javascrip
 [CookieReader.js]
 (https://github.com/anilpank/oldWebAppCsrfProtection/blob/master/WebContent/CookieReader.js)
 
+# [Bespoke Solutions](http://www.ojblabs.com)
+Brought to you by [OjbLabs](http://www.ojblabs.com)
 
 
